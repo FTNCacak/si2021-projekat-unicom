@@ -1,0 +1,12 @@
+CREATE TABLE [dbo].[UserDB]
+(
+    [UserID] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [username] NVARCHAR(25) NOT NULL, 
+    [First_Name] NVARCHAR(20) NOT NULL, 
+    [Last_Name] NVARCHAR(20) NOT NULL, 
+    [Gender] BIT NOT NULL, 
+    [Student] BIT NULL, 
+    [Mentor] BIT NULL, 
+    [Administration] BIT NULL, 
+    [Profession] NVARCHAR(20) NULL
+)
