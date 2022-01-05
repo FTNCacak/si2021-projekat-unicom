@@ -17,7 +17,7 @@ namespace BusinessLayer
             return userRepository.GetAllUsers().ToList();
         }
 
-        public bool InsertUsers(User user)
+        public bool InsertUser(User user)
         {
             return userRepository.InsertUser(user) != 0;
         }

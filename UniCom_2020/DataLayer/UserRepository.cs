@@ -10,7 +10,7 @@ namespace DataLayer
 {
     public class UserRepository
     {
-        private string connString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=UniComDB;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+        private string connString = "Data Source=(localdb)\\ProjectsV13;Initial Catalog=UnicomDB;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
 
         public List<User> GetAllUsers()
         {
@@ -34,11 +34,7 @@ namespace DataLayer
                     user.username = dataReader.GetString(1);
                     user.First_Name = dataReader.GetString(2);
                     user.Last_Name = dataReader.GetString(3);
-                    user.Gender = dataReader.GetBoolean(4);
-                    user.Mentor = dataReader.GetBoolean(5);
-                    user.Administration = dataReader.GetBoolean(6);
-                    user.Profession = dataReader.GetString(7);
-                    user.Year_of_Birth = dataReader.GetInt32(8);
+                    user.Year_of_Birth = dataReader.GetInt32(4);
                     userList.Add(user);
                 }
             }
@@ -54,8 +50,8 @@ namespace DataLayer
 
                 SqlCommand command = new SqlCommand();
                 command.Connection = sqlConnection;
-                command.CommandText = string.Format("INSERT INTO User VALUES('{0}','{1}','{2}','{3}','{4}','{5}','{6}','{7}'.'{8}')",
-                user.UserID, user.username, user.First_Name, user.Last_Name, user.Gender, user.Mentor, user.Administration, user.Profession, user.Year_of_Birth);
+                command.CommandText = string.Format("INSERT INTO User VALUES('{0}','{1}','{2}','{3}','{4}')",
+                user.UserID, user.username, user.First_Name, user.Last_Name, user.Year_of_Birth);
 
                 return command.ExecuteNonQuery();
             }
