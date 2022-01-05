@@ -1,0 +1,9 @@
+C:\Users\ihins\OneDrive\Desktop\Projekat\Unicom\KorisnikBusiness\bin\Debug\KorisnikBusiness.dll
+C:\Users\ihins\OneDrive\Desktop\Projekat\Unicom\KorisnikBusiness\bin\Debug\KorisnikBusiness.pdb
+C:\Users\ihins\OneDrive\Desktop\Projekat\Unicom\KorisnikBusiness\bin\Debug\DataLayer.dll
+C:\Users\ihins\OneDrive\Desktop\Projekat\Unicom\KorisnikBusiness\bin\Debug\DataLayer.pdb
+C:\Users\ihins\OneDrive\Desktop\Projekat\Unicom\KorisnikBusiness\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\ihins\OneDrive\Desktop\Projekat\Unicom\KorisnikBusiness\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ihins\OneDrive\Desktop\Projekat\Unicom\KorisnikBusiness\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\ihins\OneDrive\Desktop\Projekat\Unicom\KorisnikBusiness\obj\Debug\KorisnikBusiness.dll
+C:\Users\ihins\OneDrive\Desktop\Projekat\Unicom\KorisnikBusiness\obj\Debug\KorisnikBusiness.pdb

@@ -1,0 +1,14 @@
+C:\Users\ihins\OneDrive\Desktop\Projekat\Unicom\Unicom\bin\Debug\Unicom.exe.config
+C:\Users\ihins\OneDrive\Desktop\Projekat\Unicom\Unicom\bin\Debug\Unicom.exe
+C:\Users\ihins\OneDrive\Desktop\Projekat\Unicom\Unicom\bin\Debug\Unicom.pdb
+C:\Users\ihins\OneDrive\Desktop\Projekat\Unicom\Unicom\bin\Debug\DataLayer.dll
+C:\Users\ihins\OneDrive\Desktop\Projekat\Unicom\Unicom\bin\Debug\KorisnikBusiness.dll
+C:\Users\ihins\OneDrive\Desktop\Projekat\Unicom\Unicom\bin\Debug\DataLayer.pdb
+C:\Users\ihins\OneDrive\Desktop\Projekat\Unicom\Unicom\bin\Debug\KorisnikBusiness.pdb
+C:\Users\ihins\OneDrive\Desktop\Projekat\Unicom\Unicom\obj\Debug\Unicom.csproj.AssemblyReference.cache
+C:\Users\ihins\OneDrive\Desktop\Projekat\Unicom\Unicom\obj\Debug\Unicom.Unicom.resources
+C:\Users\ihins\OneDrive\Desktop\Projekat\Unicom\Unicom\obj\Debug\Unicom.Properties.Resources.resources
+C:\Users\ihins\OneDrive\Desktop\Projekat\Unicom\Unicom\obj\Debug\Unicom.csproj.GenerateResource.cache
+C:\Users\ihins\OneDrive\Desktop\Projekat\Unicom\Unicom\obj\Debug\Unicom.csproj.CoreCompileInputs.cache
+C:\Users\ihins\OneDrive\Desktop\Projekat\Unicom\Unicom\obj\Debug\Unicom.exe
+C:\Users\ihins\OneDrive\Desktop\Projekat\Unicom\Unicom\obj\Debug\Unicom.pdb
