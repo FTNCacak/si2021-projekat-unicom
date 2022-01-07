@@ -1,0 +1,9 @@
+C:\Users\ihins\Downloads\05b Magacin App v3 SQL+DI (1)\05b Magacin App v3 SQL+DI\MagacinBusiness\bin\Debug\MagacinBusiness.dll
+C:\Users\ihins\Downloads\05b Magacin App v3 SQL+DI (1)\05b Magacin App v3 SQL+DI\MagacinBusiness\bin\Debug\MagacinBusiness.pdb
+C:\Users\ihins\Downloads\05b Magacin App v3 SQL+DI (1)\05b Magacin App v3 SQL+DI\MagacinBusiness\bin\Debug\MagacinData.dll
+C:\Users\ihins\Downloads\05b Magacin App v3 SQL+DI (1)\05b Magacin App v3 SQL+DI\MagacinBusiness\bin\Debug\Shared.dll
+C:\Users\ihins\Downloads\05b Magacin App v3 SQL+DI (1)\05b Magacin App v3 SQL+DI\MagacinBusiness\bin\Debug\MagacinData.pdb
+C:\Users\ihins\Downloads\05b Magacin App v3 SQL+DI (1)\05b Magacin App v3 SQL+DI\MagacinBusiness\bin\Debug\Shared.pdb
+C:\Users\ihins\Downloads\05b Magacin App v3 SQL+DI (1)\05b Magacin App v3 SQL+DI\MagacinBusiness\obj\Debug\UnicomBusiness.csproj.CoreCompileInputs.cache
+C:\Users\ihins\Downloads\05b Magacin App v3 SQL+DI (1)\05b Magacin App v3 SQL+DI\MagacinBusiness\obj\Debug\MagacinBusiness.dll
+C:\Users\ihins\Downloads\05b Magacin App v3 SQL+DI (1)\05b Magacin App v3 SQL+DI\MagacinBusiness\obj\Debug\MagacinBusiness.pdb
