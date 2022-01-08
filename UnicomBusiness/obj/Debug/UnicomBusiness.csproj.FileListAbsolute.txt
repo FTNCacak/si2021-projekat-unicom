@@ -1,0 +1,9 @@
+C:\Users\ihins\OneDrive\Desktop\Final\Unicom\UnicomBusiness\bin\Debug\UnicomBusiness.dll
+C:\Users\ihins\OneDrive\Desktop\Final\Unicom\UnicomBusiness\bin\Debug\UnicomBusiness.pdb
+C:\Users\ihins\OneDrive\Desktop\Final\Unicom\UnicomBusiness\bin\Debug\Shared.dll
+C:\Users\ihins\OneDrive\Desktop\Final\Unicom\UnicomBusiness\bin\Debug\Shared.pdb
+C:\Users\ihins\OneDrive\Desktop\Final\Unicom\UnicomBusiness\obj\Debug\UnicomBusiness.csproj.AssemblyReference.cache
+C:\Users\ihins\OneDrive\Desktop\Final\Unicom\UnicomBusiness\obj\Debug\UnicomBusiness.csproj.CoreCompileInputs.cache
+C:\Users\ihins\OneDrive\Desktop\Final\Unicom\UnicomBusiness\obj\Debug\UnicomBusiness.csproj.CopyComplete
+C:\Users\ihins\OneDrive\Desktop\Final\Unicom\UnicomBusiness\obj\Debug\UnicomBusiness.dll
+C:\Users\ihins\OneDrive\Desktop\Final\Unicom\UnicomBusiness\obj\Debug\UnicomBusiness.pdb

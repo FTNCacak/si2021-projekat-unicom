@@ -1,0 +1,6 @@
+C:\Users\ihins\OneDrive\Desktop\Final\Unicom\Shared\bin\Debug\Shared.dll
+C:\Users\ihins\OneDrive\Desktop\Final\Unicom\Shared\bin\Debug\Shared.pdb
+C:\Users\ihins\OneDrive\Desktop\Final\Unicom\Shared\obj\Debug\Shared.csproj.AssemblyReference.cache
+C:\Users\ihins\OneDrive\Desktop\Final\Unicom\Shared\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+C:\Users\ihins\OneDrive\Desktop\Final\Unicom\Shared\obj\Debug\Shared.dll
+C:\Users\ihins\OneDrive\Desktop\Final\Unicom\Shared\obj\Debug\Shared.pdb

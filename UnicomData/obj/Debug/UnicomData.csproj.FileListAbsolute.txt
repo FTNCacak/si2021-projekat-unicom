@@ -1,0 +1,8 @@
+C:\Users\ihins\OneDrive\Desktop\Final\Unicom\UnicomData\bin\Debug\UnicomData.dll
+C:\Users\ihins\OneDrive\Desktop\Final\Unicom\UnicomData\bin\Debug\UnicomData.pdb
+C:\Users\ihins\OneDrive\Desktop\Final\Unicom\UnicomData\bin\Debug\Shared.dll
+C:\Users\ihins\OneDrive\Desktop\Final\Unicom\UnicomData\bin\Debug\Shared.pdb
+C:\Users\ihins\OneDrive\Desktop\Final\Unicom\UnicomData\obj\Debug\UnicomData.csproj.CoreCompileInputs.cache
+C:\Users\ihins\OneDrive\Desktop\Final\Unicom\UnicomData\obj\Debug\UnicomData.dll
+C:\Users\ihins\OneDrive\Desktop\Final\Unicom\UnicomData\obj\Debug\UnicomData.pdb
+C:\Users\ihins\OneDrive\Desktop\Final\Unicom\UnicomData\obj\Debug\UnicomData.csproj.AssemblyReference.cache
