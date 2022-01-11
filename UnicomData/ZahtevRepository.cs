@@ -34,6 +34,8 @@ namespace UnicomData
                 zahtev.Title = dataReader.GetString(1);
                 zahtev.Description = dataReader.GetString(2);
                 zahtev.UserId = dataReader.GetInt32(3);
+                zahtev.Checked = dataReader.GetBoolean(4);
+                zahtev.Allowed = dataReader.GetBoolean(5);
 
                 listOfZahtev.Add(zahtev);
             }
@@ -51,8 +53,9 @@ namespace UnicomData
 
                 SqlCommand command = new SqlCommand();
                 command.Connection = sqlConnection;
-                command.CommandText = string.Format("INSERT INTO Zahtev VALUES('{0}','{1}','{2}')",
-                zahtev.Title, zahtev.Description, zahtev.UserId);
+                command.CommandText = string.Format("INSERT INTO Zahtev VALUES('{0}','{1}','{2}','{3}','{4}')",
+                zahtev.Title, zahtev.Description, zahtev.UserId,zahtev.Checked,zahtev.Allowed);
+
 
                 return command.ExecuteNonQuery();
             }
@@ -65,12 +68,14 @@ namespace UnicomData
             using (SqlConnection sqlConnection = new SqlConnection(Constants.connString))
             {
 
-                string sqlCommand = "UPDATE Zahtev SET Title = @Title, Description = @Description, UserId = @UserId WHERE Id = @Id";
+                string sqlCommand = "UPDATE Zahtev SET Title = @Title, Description = @Description,UserId = @UserId, Allowed = @Allowed , Checked = @Checked WHERE Id = @Id";
                 SqlCommand command = new SqlCommand(sqlCommand, sqlConnection);
                 command.Parameters.AddWithValue("@Id", zahtev.Id);
                 command.Parameters.AddWithValue("@Title", zahtev.Title);
                 command.Parameters.AddWithValue("@Description", zahtev.Description);
                 command.Parameters.AddWithValue("@UserId", zahtev.UserId);
+                command.Parameters.AddWithValue("@Checked", zahtev.Checked);
+                command.Parameters.AddWithValue("@Allowed", zahtev.Allowed);
 
                 sqlConnection.Open();
 

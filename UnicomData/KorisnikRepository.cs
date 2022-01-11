@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
@@ -24,7 +25,6 @@ namespace UnicomData
 
             SqlDataReader dataReader = command.ExecuteReader();
 
-
             List<Korisnik> listOfKorisnik = new List<Korisnik>();
 
             while (dataReader.Read())
@@ -34,6 +34,8 @@ namespace UnicomData
                 korisnik.Username = dataReader.GetString(1);
                 korisnik.First_Name = dataReader.GetString(2);
                 korisnik.Last_Name = dataReader.GetString(3);
+                korisnik.Role = dataReader.GetString(4);
+                korisnik.Gender = dataReader.GetString(5);
 
                 listOfKorisnik.Add(korisnik);
             }
@@ -52,8 +54,8 @@ namespace UnicomData
 
                 SqlCommand command = new SqlCommand();
                 command.Connection = sqlConnection;
-                command.CommandText = string.Format("INSERT INTO Korisnik VALUES('{0}','{1}','{2}')",
-                    korisnik.Username, korisnik.First_Name, korisnik.Last_Name);
+                command.CommandText = string.Format("INSERT INTO Korisnik VALUES('{0}','{1}','{2}','{3}','{4}')",
+                    korisnik.Username, korisnik.First_Name, korisnik.Last_Name,korisnik.Role,korisnik.Gender);
 
                 return command.ExecuteNonQuery();
             }
@@ -66,12 +68,14 @@ namespace UnicomData
             using (SqlConnection sqlConnection = new SqlConnection(Constants.connString))
             {
 
-                string sqlCommand = "UPDATE Korisnik SET Username = @Username, First_Name = @First_Name, Last_Name = @Last_Name WHERE Id = @Id";
+                string sqlCommand = "UPDATE Korisnik SET Username = @Username, First_Name = @First_Name, Last_Name = @Last_Name, Role = @Role, Gender = @Gender WHERE Id = @Id";
                 SqlCommand command = new SqlCommand(sqlCommand, sqlConnection);
                 command.Parameters.AddWithValue("@Id", korisnik.Id);
                 command.Parameters.AddWithValue("@Username", korisnik.Username);
                 command.Parameters.AddWithValue("@First_Name", korisnik.First_Name);
                 command.Parameters.AddWithValue("@Last_Name", korisnik.Last_Name);
+                command.Parameters.AddWithValue("@Role", korisnik.Role);
+                command.Parameters.AddWithValue("@Gender", korisnik.Gender);
 
                 sqlConnection.Open();
 
