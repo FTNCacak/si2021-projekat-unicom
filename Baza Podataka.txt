@@ -1,0 +1,22 @@
+CREATE TABLE [dbo].[Korisnik] (
+    [Id]         INT           IDENTITY (1, 1) NOT NULL,
+    [Username]   NVARCHAR (15) NOT NULL,
+    [First_Name] NVARCHAR (20) NOT NULL,
+    [Last_Name]  NVARCHAR (20) NOT NULL,
+    [Role]       NVARCHAR (15) NOT NULL,
+    [Gender]     NVARCHAR (10) NOT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+
+
+
+
+CREATE TABLE [dbo].[Zahtev] (
+    [Id]          INT            IDENTITY (1, 1) NOT NULL,
+    [Title]       NVARCHAR (25)  NOT NULL,
+    [Description] NVARCHAR (250) NOT NULL,
+    [UserId]      INT            NOT NULL,
+    [Checked]     BIT            NOT NULL,
+    [Allowed]     BIT            NOT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
