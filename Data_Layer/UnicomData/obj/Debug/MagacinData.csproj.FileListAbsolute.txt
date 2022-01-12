@@ -1,0 +1,30 @@
+I:\- NASTAVA\2 - Softversko inzenjerstvo\2020\Vezbe\Temp\2021-10-26\Magacin\MagacinData\bin\Debug\MagacinData.dll
+I:\- NASTAVA\2 - Softversko inzenjerstvo\2020\Vezbe\Temp\2021-10-26\Magacin\MagacinData\bin\Debug\MagacinData.pdb
+I:\- NASTAVA\2 - Softversko inzenjerstvo\2020\Vezbe\Temp\2021-10-26\Magacin\MagacinData\obj\Debug\MagacinData.csproj.AssemblyReference.cache
+I:\- NASTAVA\2 - Softversko inzenjerstvo\2020\Vezbe\Temp\2021-10-26\Magacin\MagacinData\obj\Debug\MagacinData.csproj.CoreCompileInputs.cache
+I:\- NASTAVA\2 - Softversko inzenjerstvo\2020\Vezbe\Temp\2021-10-26\Magacin\MagacinData\obj\Debug\MagacinData.dll
+I:\- NASTAVA\2 - Softversko inzenjerstvo\2020\Vezbe\Temp\2021-10-26\Magacin\MagacinData\obj\Debug\MagacinData.pdb
+I:\- NASTAVA\2 - Softversko inzenjerstvo\2021\Vezbe\2021-10-26\Magacin v2 SQL\MagacinData\bin\Debug\MagacinData.dll
+I:\- NASTAVA\2 - Softversko inzenjerstvo\2021\Vezbe\2021-10-26\Magacin v2 SQL\MagacinData\bin\Debug\MagacinData.pdb
+I:\- NASTAVA\2 - Softversko inzenjerstvo\2021\Vezbe\2021-10-26\Magacin v2 SQL\MagacinData\obj\Debug\MagacinData.csproj.AssemblyReference.cache
+I:\- NASTAVA\2 - Softversko inzenjerstvo\2021\Vezbe\2021-10-26\Magacin v2 SQL\MagacinData\obj\Debug\MagacinData.csproj.CoreCompileInputs.cache
+I:\- NASTAVA\2 - Softversko inzenjerstvo\2021\Vezbe\2021-10-26\Magacin v2 SQL\MagacinData\obj\Debug\MagacinData.dll
+I:\- NASTAVA\2 - Softversko inzenjerstvo\2021\Vezbe\2021-10-26\Magacin v2 SQL\MagacinData\obj\Debug\MagacinData.pdb
+I:\- NASTAVA\2 - Softversko inzenjerstvo\2021\Vezbe\- GitProjects\2021-11-02\MagacinData\bin\Debug\MagacinData.dll
+I:\- NASTAVA\2 - Softversko inzenjerstvo\2021\Vezbe\- GitProjects\2021-11-02\MagacinData\bin\Debug\MagacinData.pdb
+I:\- NASTAVA\2 - Softversko inzenjerstvo\2021\Vezbe\- GitProjects\2021-11-02\MagacinData\obj\Debug\MagacinData.csproj.AssemblyReference.cache
+I:\- NASTAVA\2 - Softversko inzenjerstvo\2021\Vezbe\- GitProjects\2021-11-02\MagacinData\obj\Debug\MagacinData.csproj.CoreCompileInputs.cache
+I:\- NASTAVA\2 - Softversko inzenjerstvo\2021\Vezbe\- GitProjects\2021-11-02\MagacinData\obj\Debug\MagacinData.dll
+I:\- NASTAVA\2 - Softversko inzenjerstvo\2021\Vezbe\- GitProjects\2021-11-02\MagacinData\obj\Debug\MagacinData.pdb
+I:\- NASTAVA\2 - Softversko inzenjerstvo\2021\Vezbe\- GitProjects\2021-11-02\MagacinData\bin\Debug\Shared.dll
+I:\- NASTAVA\2 - Softversko inzenjerstvo\2021\Vezbe\- GitProjects\2021-11-02\MagacinData\bin\Debug\Shared.pdb
+I:\- NASTAVA\2 - Softversko inzenjerstvo\2021\Vezbe\- GitProjects\2021-11-02\MagacinData\obj\Debug\MagacinData.csproj.CopyComplete
+C:\Users\ihins\Downloads\05b Magacin App v3 SQL+DI (1)\05b Magacin App v3 SQL+DI\MagacinData\bin\Debug\MagacinData.dll
+C:\Users\ihins\Downloads\05b Magacin App v3 SQL+DI (1)\05b Magacin App v3 SQL+DI\MagacinData\bin\Debug\MagacinData.pdb
+C:\Users\ihins\Downloads\05b Magacin App v3 SQL+DI (1)\05b Magacin App v3 SQL+DI\MagacinData\bin\Debug\Shared.dll
+C:\Users\ihins\Downloads\05b Magacin App v3 SQL+DI (1)\05b Magacin App v3 SQL+DI\MagacinData\bin\Debug\Shared.pdb
+C:\Users\ihins\Downloads\05b Magacin App v3 SQL+DI (1)\05b Magacin App v3 SQL+DI\MagacinData\obj\Debug\MagacinData.csproj.AssemblyReference.cache
+C:\Users\ihins\Downloads\05b Magacin App v3 SQL+DI (1)\05b Magacin App v3 SQL+DI\MagacinData\obj\Debug\MagacinData.csproj.CoreCompileInputs.cache
+C:\Users\ihins\Downloads\05b Magacin App v3 SQL+DI (1)\05b Magacin App v3 SQL+DI\MagacinData\obj\Debug\MagacinData.csproj.CopyComplete
+C:\Users\ihins\Downloads\05b Magacin App v3 SQL+DI (1)\05b Magacin App v3 SQL+DI\MagacinData\obj\Debug\MagacinData.dll
+C:\Users\ihins\Downloads\05b Magacin App v3 SQL+DI (1)\05b Magacin App v3 SQL+DI\MagacinData\obj\Debug\MagacinData.pdb

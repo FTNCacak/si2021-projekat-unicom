@@ -1,0 +1,7 @@
+CREATE TABLE [dbo].[RequestDB]
+(
+    [RequestNumber] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [Sender_username] NVARCHAR(25) NOT NULL, 
+    [Receiver_username] NVARCHAR(25) NOT NULL, 
+    [RequestDate] DATE NULL
+)
